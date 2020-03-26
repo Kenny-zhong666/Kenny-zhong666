@@ -1,3 +1,4 @@
+# 此專案With shiunru
 # 3.19 販賣機
 #主要框架
 flag = True
@@ -92,7 +93,7 @@ while flag:
         print('====請輸入1-4之間====')
         continue
 
-# 123213213123
+    # 123213213123
 
 
 
